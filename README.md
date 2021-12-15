@@ -7,4 +7,8 @@
 - [x] Fazer  os campos aparecerem da esquerda para direita, 
 suavizando a entrada e fazendo-os entrar em momentos distintos
 
-- [] Quando clicar em login, fazer o formulário sair da tela, indo para baixo
+- [x] Quando clicar em login, fazer o formulário sair da tela, indo para baixo
+
+- [] Remover o formulario do html e não mostrar rolagem enquanto o formulario 
+    está saindo da tela
+
