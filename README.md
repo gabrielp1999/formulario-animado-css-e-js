@@ -13,3 +13,5 @@ suavizando a entrada e fazendo-os entrar em momentos distintos
     está saindo da tela
 
 - [x] adicionar um efeito diferente do timing para a saida do formulario
+
+- [x] fazer o formulario vibrar, dizer não quando os inputs tiverem vazios.
