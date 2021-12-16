@@ -15,3 +15,7 @@ suavizando a entrada e fazendo-os entrar em momentos distintos
 - [x] adicionar um efeito diferente do timing para a saida do formulario
 
 - [x] fazer o formulario vibrar, dizer não quando os inputs tiverem vazios.
+
+- [x] criar alguns quadrados animados que fiquem girando e que sae de baixo da tela 
+ (fora do campo de visão) e que vai para parte de cima da tela: _detalhes_: deve ter tamanhos
+ diferentes, sairem em momentos diferentes, terem timing diferentes, animação continua.
